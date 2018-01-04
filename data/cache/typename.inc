@@ -1,0 +1,32 @@
+<?php
+$typeArr[1] = '关于我们';
+$typeArr[2] = '企业介绍';
+$typeArr[3] = '企业历史';
+$typeArr[4] = '价值核心';
+$typeArr[5] = '新闻中心';
+$typeArr[6] = '行业新闻';
+$typeArr[7] = '公司新闻';
+$typeArr[8] = '产业布局';
+$typeArr[9] = '投资集团';
+$typeArr[10] = '传媒集团';
+$typeArr[11] = '能源集团';
+$typeArr[12] = '法律服务';
+$typeArr[13] = '国际贸易';
+$typeArr[14] = '企业文化';
+$typeArr[15] = '企业使命';
+$typeArr[16] = '企业愿景';
+$typeArr[17] = '企业价值观';
+$typeArr[18] = '企业精神';
+$typeArr[19] = '企业理念';
+$typeArr[20] = '人力资源';
+$typeArr[21] = '用人理念';
+$typeArr[22] = '员工天地';
+$typeArr[23] = '招贤纳士';
+$typeArr[24] = '社会责任';
+$typeArr[25] = '社会责任';
+$typeArr[26] = '慈善公益';
+$typeArr[27] = '环境保护';
+$typeArr[28] = '联系我们';
+$typeArr[29] = '联系方式';
+$typeArr[30] = '在线留言';
+?>

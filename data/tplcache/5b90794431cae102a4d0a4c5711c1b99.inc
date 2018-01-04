@@ -1,0 +1,1 @@
+<a href="[field:typeurl /]"> <img width="100" height="90" src="/skin/images/aa3" alt=""> <font> [field:typename /]</font></a>

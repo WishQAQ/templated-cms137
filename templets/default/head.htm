@@ -1,0 +1,22 @@
+<div class="top">
+    <div class="header">
+      <div class="logo"><a href="/"><img src="/skin/images/logo.png" /></a>
+        <h1></h1>
+      </div>
+      <div class="search">
+        <form name="formsearch" action="/plus/search.php" method="post">
+          <input name="q" type="text" class="sctxt" value="请输入关键字"/>
+          <input name="submit" value="" type="submit" class="scbtn" />
+        </form>
+      </div>
+      <div class="nav">
+        <ul>
+          <li><a href="/">网站首页</a></li>
+          {dede:channel type='top' row ='10'}
+		  <li><a href="[field:typelink/]">[field:typename/]</a></li>
+		  {/dede:channel}
+        </ul>
+      </div>
+    </div>
+    <div class="bg"></div>
+  </div>

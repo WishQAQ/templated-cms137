@@ -1,0 +1,1 @@
+<li> <a href="[field:arcurl/]" target="_blank"><img src="[field:picname/]" width="225" height="155" /></a> </li>
